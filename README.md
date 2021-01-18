@@ -1,4 +1,3 @@
-# To-Do-API
 ## To-Do-API-in-React-code::
 
 This is a simple To Do Application in react. It's a list of tasks you need to complete, or things that you want to do. I've used React components, React forms, event handlers etc.
