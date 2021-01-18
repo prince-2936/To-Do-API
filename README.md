@@ -18,9 +18,12 @@ Node.js is used for the database.
 
 # Steps to run your application::
 Prerequisites:
+
 1.Node.js 
+
 2.Visual studio
-To check the availability of software kh
+
+To check the availability of software 
 npm -v
 node -v
 1. first Clone/copy this code and open it in the Visual studio code.
