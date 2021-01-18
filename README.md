@@ -24,8 +24,11 @@ Prerequisites:
 2.Visual studio
 
 To check the availability of software 
+
 npm -v
+
 node -v
+
 1.first Clone/copy this code and open it in the Visual studio code.
 
 Open the terminal and go to the application folder.
